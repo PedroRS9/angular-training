@@ -1,0 +1,16 @@
+header {
+    background: linear-gradient(
+        to bottom,
+            #500000,
+            #b50101
+    );
+    max-width: 50rem;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.header-title {
+    color: white;
+}
